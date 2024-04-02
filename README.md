@@ -1,7 +1,6 @@
 <div align="center">
   <img alt="V3 Admin Vite Logo" width="120" height="120" src="./src/assets/layouts/logo.png">
   <h1>Vue3 Admin Vite</h1>
-  <span><a href="./README.md">English</a> | 中文</span>
 </div>
 
 ## 简介
@@ -18,12 +17,11 @@ yarn i
 yarn dev
 ```
 
-## 预览
 ## 📺 在线预览
 
-| 位置         | 账号            | 链接                                            |
-| ------------ | --------------- | ----------------------------------------------- |
-| github-pages | admin 或 editor | [链接](https://github.com/minsion/vue3-admin-vite) |
+| 位置         | 账号             ｜密码       | 链接                                            |
+| ------------ | --------------- | ----------|------------------------------------- |
+| github-pages | admin 或 editor | 12345678 | [链接](https://github.com/minsion/vue3-admin-vite) |
 ## 项目预览图
 
 ![preview1.png](./src/assets/docs/preview1.png)
