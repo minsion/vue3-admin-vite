@@ -1,13 +1,8 @@
-<div align="center">
-  <img alt="V3 Admin Vite Logo" width="120" height="120" src="./src/assets/layouts/logo.png">
-  <h1>Vue3 Admin Vite</h1>
-</div>
-
-## 简介
+## 1.简介
 
 Vue3 Admin Vite 是一个免费开源的中后台管理系统基础解决方案，基于 Vue3、TypeScript、Element Plus、Pinia 和 Vite 等主流技术
 
-## 开发
+## 2.开发
 
 ```bash
 # 安装依赖
@@ -17,12 +12,13 @@ yarn i
 yarn dev
 ```
 
-## 📺 在线预览
+## 3.在线预览
 
 | 位置         | 账号             ｜密码       | 链接                                            |
 | ------------ | --------------- | ----------|------------------------------------- |
-| github-pages | admin 或 editor | 12345678 | [链接](https://github.com/minsion/vue3-admin-vite) |
-## 项目预览图
+| github-pages | admin 或 editor | 12345678 | [链接](https://minsion.github.io/vue3-admin-vite/#/login) |
+
+## 4.项目预览图
 
 ![preview1.png](./src/assets/docs/preview1.png)
 ![preview2.png](./src/assets/docs/preview2.png)
