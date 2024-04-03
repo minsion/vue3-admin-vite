@@ -13,7 +13,7 @@ yarn dev
 ```
 
 ### 3.在线预览
-[https://minsion.github.io/vue3-admin-vite/#/login](https://minsion.github.io/vue3-admin-vite/#/login)
+[在线预览](https://minsion.github.io/vue3-admin-vite/#/login)
 
 账号：admin or editor
 密码：12345678
